@@ -15,3 +15,5 @@ https://explore.skillbuilder.aws/pages/16/learner-dashboard
 20230105
 料金ツールで見積できるらしい。自社でサービス提案するのに大体いくら位って言えて便利そう
 https://calculator.aws/#/
+
+s3への一括請求適用（10T以上）で、複数アカウントと個別では、個別の方が割引適用は大きい。複数だと割引が分配されるから。
