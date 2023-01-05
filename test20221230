@@ -17,3 +17,5 @@ https://explore.skillbuilder.aws/pages/16/learner-dashboard
 https://calculator.aws/#/
 
 s3への一括請求適用（10T以上）で、複数アカウントと個別では、個別の方が割引適用は大きい。複数だと割引が分配されるから。
+
+TrustedAdvisorはビジネスプラン以上でしか使えない（ベーシック、ディベロッパーはダメ）
