@@ -19,3 +19,13 @@ https://calculator.aws/#/
 s3への一括請求適用（10T以上）で、複数アカウントと個別では、個別の方が割引適用は大きい。複数だと割引が分配されるから。
 
 TrustedAdvisorはビジネスプラン以上でしか使えない（ベーシック、ディベロッパーはダメ）
+
+20230106
+EBS(ElasticBlockStore)はストレージ系。  
+
+LB(LoadBalancer)にも色々とある
+CLB(Classic) 
+ALB(Application)レイヤー7 HTTPS
+NLB(Network)    レイヤー4
+
+WAF(WebApplicationFirewall)
