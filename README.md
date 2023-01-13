@@ -1,0 +1,11 @@
+# CloudPractioner
+![image](https://user-images.githubusercontent.com/87888755/212264787-52ce9381-120e-4bf9-b859-2e36e5aaad63.png)
+![image](https://user-images.githubusercontent.com/87888755/212264864-fa391470-19eb-43a4-b460-0aec117d755c.png)
+![image](https://user-images.githubusercontent.com/87888755/212264942-725736a2-e8ae-48ba-b27c-33a34c862e08.png)
+![image](https://user-images.githubusercontent.com/87888755/212265047-7adbfed3-4ba2-47b0-9837-39cea8319286.png)
+![image](https://user-images.githubusercontent.com/87888755/212265092-8c60b254-7b97-4360-8a64-a741714b80b6.png)
+![image](https://user-images.githubusercontent.com/87888755/212265145-64e47979-a3b0-4322-93b3-4b9394a6e65a.png)
+![image](https://user-images.githubusercontent.com/87888755/212265196-b4556c45-b061-4315-8f87-c9e332cbcd57.png)
+![image](https://user-images.githubusercontent.com/87888755/212265228-ecb8298f-addc-4948-bb01-ccd386b8c460.png)
+![image](https://user-images.githubusercontent.com/87888755/212265265-1e2232d6-98b0-4556-aa6e-a79359f1e48a.png)
+![image](https://user-images.githubusercontent.com/87888755/212265310-c87db86d-76f0-4b40-a0cf-7c66053de8b6.png)
